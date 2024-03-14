@@ -1,5 +1,5 @@
 ## About me
-I like Python, C, C++, JavaScript, and sometimes I write code in assembler.
+I like Python, C, C++, JavaScript, and assembler (NASM).
 
 ## Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=t1m013y&column=6&theme=onedark&no-frame=true)
