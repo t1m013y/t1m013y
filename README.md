@@ -32,7 +32,7 @@ I create open source software and hardware projects, mainly using Python and C++
 
 ### Other languages and tools
 
-[<img src="https://cdn.simpleicons.org/gnubash/808080" width="32" height="32" alt="Unix shell" title="Unix shell">](https://en.wikipedia.org/wiki/Unix_shell)&ensp;[<img src="icons/commandprompt.svg" width="32" height="32" alt="Windows command prompt" title="Windows command prompt">](https://en.wikipedia.org/wiki/Cmd.exe)&ensp;[<img src="icons/sql.svg" width="32" height="32" alt="SQL" title="SQL">](https://en.wikipedia.org/wiki/SQL)&ensp;[<img src="icons/regex.svg" width="32" height="32" alt="regex" title="regex">](https://en.wikipedia.org/wiki/Regular_expression)&ensp;[<img src="icons/tptasm.svg" width="32" height="32" alt="TPTASM" title="TPTASM">](https://github.com/LBPHacker/tptasm)
+[<img src="https://cdn.simpleicons.org/gnubash/808080" width="32" height="32" alt="Unix shell" title="Unix shell">](https://en.wikipedia.org/wiki/Unix_shell)&ensp;[<img src="icons/commandprompt.svg" width="32" height="32" alt="Windows command prompt" title="Windows command prompt">](https://en.wikipedia.org/wiki/Cmd.exe)&ensp;[<img src="icons/sql.svg" width="32" height="32" alt="SQL" title="SQL">](https://en.wikipedia.org/wiki/SQL)&ensp;[<img src="icons/regex.svg" width="32" height="32" alt="Regex" title="Regex">](https://en.wikipedia.org/wiki/Regular_expression)&ensp;[<img src="icons/tptasm.svg" width="32" height="32" alt="TPTASM" title="TPTASM">](https://github.com/LBPHacker/tptasm)
 
 ### CTF
 
