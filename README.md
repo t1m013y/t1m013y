@@ -22,7 +22,7 @@ I create open source software and hardware projects, mainly using Python and C++
 
 [<img src="https://cdn.simpleicons.org/kicad/314CB0" width="32" height="32" alt="KiCad" title="KiCad">](https://www.kicad.org/)&ensp;[<img src="https://cdn.simpleicons.org/easyeda/1765F6" width="32" height="32" alt="EasyEDA" title="EasyEDA">](https://easyeda.com/)&ensp;[<img src="icons/creoparametric.svg" width="32" height="32" alt="Creo Parametric" title="Creo Parametric">](https://www.ptc.com/en/products/creo/parametric)&ensp;[<img src="icons/kompas3d.jpg" width="32" height="32" alt="КОМПАС-3D" title="КОМПАС-3D">](https://kompas.ru/)&ensp;[<img src="https://cdn.simpleicons.org/github/808080" width="32" height="32" alt="GitHub" title="GitHub">](https://github.com/)&ensp;[<img src="https://cdn.simpleicons.org/jekyll/CC0000" width="32" height="32" alt="Jekyll" title="Jekyll">](https://jekyllrb.com/)
 
-### Hardware
+### Embedded
 
 [<img src="https://cdn.simpleicons.org/arduino/00878F" width="32" height="32" alt="Arduino" title="Arduino">](https://www.arduino.cc/)&ensp;[<img src="https://cdn.simpleicons.org/stmicroelectronics/808080" width="32" height="32" alt="STM32" title="STM32">](https://en.wikipedia.org/wiki/STM32)
 ### Information security, CTF
